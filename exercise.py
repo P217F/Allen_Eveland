@@ -3,13 +3,12 @@ import tkinter as tk
 from tkinter import messagebox
 import subprocess
 
-#khoi tao cua so ung dung quet mang
+#start to code
 root = tk.Tk()
 root.title("Gathering Information Network")
 root.geometry("1000x700")
 root.config(bg="gray")
 
-#tieu de khi bat dau khoi dong ung dung
 label = tk.Label(root, text="Input the IPv4", font=("Arial",16) )
 label.pack(pady=10)
 
@@ -38,14 +37,12 @@ def ping_ip():
     except Exception:
         messagebox.showerror("ERROR", "Can Not Scan!Please Retry")
 
-# Điều chỉnh thời gian chờ
 def adjust_timeout(val):
     timeout_label.config(text=f"Timeout: {val} seconds")
 
 timeout_scale = tk.Scale(root, from_=1, to=10, orient='horizontal', command=adjust_timeout)
 timeout_scale.pack(pady=5)
 
-# Nhãn hiển thị thời gian chờ
 timeout_label = tk.Label(root, text="Timeout: 1 seconds")
 timeout_label.pack(pady=5)
 
