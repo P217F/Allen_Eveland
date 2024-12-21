@@ -7,10 +7,10 @@ Welcome to my BlackCmd.This is my first tools when i was from 15 to 17 years old
 -------------------------------------------------------------------------------------------------------------  
 Pay Attention: Because I am currently fixing many errors, it is expected to take a long time before I return. Therefore, all download links here have been revoked. When I return, this text will be removed, and the links will reappear. So, you don't need to check for updates now, as it is expected to be around next October.  
 
-Name: BlackCmd  
-Author: Allen Eveland  
-version: 1.1.1  
-built by: Python,C  
+    Name: BlackCmd  
+    Author: Allen Eveland  
+    Version: 1.1.1  
+    Built by: Python,C  
 
 Link to download:  
 (No link to download)  
