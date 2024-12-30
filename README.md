@@ -1,4 +1,4 @@
-## 👋 Allen Eveland    
+## 👋 Hello Everyone  
   
 ## 🌟 About Me  
 - 🧑‍💻 **Name:** Allen Eveland  
@@ -9,11 +9,10 @@
   
 ## 🛠️ Tech Stack  
 - **Languages:** Python, C++, Rust, And others...  
-- **Tools:** VS Code, Git, Sublime Text  
+- **Tools:** VS Code, Git, Pycharm, CLion, RustRover, Fleet  
 - **Platforms:** Unix, Linux, Windows  
   
 ## 🚀 Projects  
-- **VulnCmd:** Security tool for analysis, anonymity, and vulnerability detection.  
 - **Personal Portfolio:** Showcasing my freelance projects and skills.  
   
 ## 📚 Learning  
