@@ -5,7 +5,7 @@
 - 🎂 **Age:** 16  
 - 💼 **Role:** Freelance Developer  
 - 💻 **Passion:** Coding, building innovative solutions, and exploring new technologies  
-- 🌐 **Focus Areas:** Frontend and Backend Development, System Programming, and AI Development 
+- 🌐 **Focus Areas:** Frontend and Backend Development, System Programming, and AI Development  
   
 ## 🛠️ Tech Stack  
 - **Languages:** Python, C++, Rust, And others...  
@@ -14,12 +14,13 @@
   
 ## 🚀 Projects  
 - **Personal Portfolio:** Showcasing my freelance projects and skills.  
+- **Your AI:** Automate computer tasks such as working with files, downloading software from the web, looking up information on the web,monitoring the system,... through your voice.  
   
 ## 📚 Learning  
 Currently diving deeper into:  
 - AI Development  
 - Web Development  
-- Data Analysis  
+- Cybersecurity  
   
 ## 📫 Contact Me  
 - **Email:**vuongiavinhdieu2k9@gmail.com  
