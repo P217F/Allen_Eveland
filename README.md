@@ -5,20 +5,18 @@
 - 🎂 **Age:** 16  
 - 💼 **Role:** Freelance Developer  
 - 💻 **Passion:** Coding, building innovative solutions, and exploring new technologies  
-- 🌐 **Focus Areas:** Frontend and Backend Development, System Programming, and AI Development  
+- 🌐 **Focus Areas:** System Programming, Cybersecurity, Investigator Network,  
   
 ## 🛠️ Tech Stack  
 - **Languages:** Python, C++, Rust, And others...  
-- **Tools:** VS Code, Git, Pycharm, CLion, RustRover, Fleet  
-- **Platforms:** Unix, Linux, Windows  
+- **Tools:** VS Code, Git, Pycharm, CLion, RustRover,  
+- **Platforms:** Unix, Linux, Windows, MacOS  
   
 ## 🚀 Projects  
 - **Personal Portfolio:** Showcasing my freelance projects and skills.  
-- **Your AI:** Automate computer tasks such as working with files, downloading software from the web, looking up information on the web,monitoring the system,... through your voice.  
   
 ## 📚 Learning  
 Currently diving deeper into:  
-- AI Development  
 - Web Development  
 - Cybersecurity  
   
@@ -29,7 +27,7 @@ Currently diving deeper into:
 ## 💬 Fun Fact  
 - I started coding when I was 12!
 - I like coding very much!  
-- I like eat, sleep, watch film, play volleyball,...  
+- I like eating, sleeping, watching film, playing volleyball,...  
   
 ## ❤️ Let's Collaborate  
 Open to freelance opportunities and exciting projects. Feel free to reach out!  
