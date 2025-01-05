@@ -21,7 +21,7 @@ Currently diving deeper into:
 - Cybersecurity  
   
 ## 📫 Contact Me  
-- **Email:**vuongiavinhdieu2k9@gmail.com  
+- **Email:** vuongiavinhdieu2k9@gmail.com  
 - **GitHub:** [github.com/allen-eveland](#)  
   
 ## 💬 Fun Fact  
