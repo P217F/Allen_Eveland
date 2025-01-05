@@ -5,7 +5,7 @@
 - 🎂 **Age:** 16  
 - 💼 **Role:** Freelance Developer  
 - 💻 **Passion:** Coding, building innovative solutions, and exploring new technologies  
-- 🌐 **Focus Areas:** System Programming, Web Development, Cybersecurity, Investigator Network,  
+- 🌐 **Focus Areas:** System Programming, Web Development, Cybersecurity, Investigator Network  
   
 ## 🛠️ Tech Stack  
 - **Languages:** Python, C++, Rust, And others...  
