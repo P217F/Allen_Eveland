@@ -22,7 +22,7 @@ Currently diving deeper into:
   
 ## 📫 Contact Me  
 - **Email:** vuongiavinhdieu2k9@gmail.com  
-- **GitHub:** [github.com/allen-eveland](#)  
+- **Facebook:** [https://www.facebook.com/thien.phu.277344/](#)  
   
 ## 💬 Fun Fact  
 - I started coding when I was 12!
